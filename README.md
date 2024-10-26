@@ -1,9 +1,9 @@
 # Github-Workshop
 ### Forking
-Press the fork button at the top right and name it
+Press the fork button at the top right and name it rafaef
 
 ### Opening in Github Desktop
-File -> Clone Repository and search up name of repository (Github-Workshop or the name you gave it in this case)
+File -> Clone Repository and search up nameof repository (Github-Workshop or the name you gave it in this case)
 
 ### Branching
 * Press on current branch main
